@@ -7,5 +7,6 @@ namespace dotnet_url_shortener.Controllers.API
     [ApiController]
     public class ShortUrlController : ControllerBase
     {
+
     }
 }
