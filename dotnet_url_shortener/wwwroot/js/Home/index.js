@@ -3,7 +3,8 @@
 
     function handleButton() {
         $('#btn_url_short').on('click', () => {
-            alert('test');
+            let str_url = $('#input_url');
+            alert(str_url.val());
         })
     }
 })();
